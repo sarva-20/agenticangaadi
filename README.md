@@ -22,7 +22,7 @@ AgenticAngaadi enables **AI agents** (like Claude, ChatGPT, Gemini) to discover 
 
 ### ✨ Why This Matters
 
-Imagine saying: *"Hey Claude, order me 2 coffees from my local cafe"* - and it just works. That's AgenticAngaadi.
+Imagine saying: *"Hey Claude, order me a Ghee Roast and Filter Coffee from Annapoorna"* - and it just works. That's AgenticAngaadi.
 
 ---
 
